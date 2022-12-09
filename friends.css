@@ -6,8 +6,8 @@ table{
 }
 .title-of-table{
     text-align: center;
-    background-color: green;
-    color: #FFFF00;
+    background-color: rgb(32, 12, 210);
+    color: #ef2222;
     font-style: bold;
 }
 .tr-1{
