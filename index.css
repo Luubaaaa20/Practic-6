@@ -12,25 +12,25 @@ p{
     font-size: 120%;
 }
 .biography:visited{
-    color: #50C878;
+    color: #3ee5eb;
 }
 .biography:link{
     color: blueviolet;
 }
 .novadays:visited{
-    color: #f3f3f3;
+    color: #972a94;
 }
 .novadays:link{
-    color: #838996;
+    color: #b15bbb;
 }
 .friends:visited{
-    color: #007ACC;
+    color: #b967a2;
 }
 .friends:link{
     color: #006262;
 }
 .gallery:visited{
-    color: #F4CA16;
+    color: #697ee5;
 }
 .gallery:link{
     color: #EB4C42;
